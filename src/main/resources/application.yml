@@ -28,7 +28,7 @@ application:
       #- 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
       - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
-     ＃ - 'https://raw.githubusercontents.com/521xueweihan/GitHub520/main/hosts' #github520
+     #- 'https://raw.githubusercontents.com/521xueweihan/GitHub520/main/hosts' #github520
       - 'https://raw.githubusercontents.com/Cats-Team/AdRules/main/hosts.txt' #cat-team
       - 'https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007_auto/raw/reward?ref=master' #keytool
       - 'https://neodev.team/host' #neodev
