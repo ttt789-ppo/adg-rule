@@ -40,8 +40,8 @@ jobs:
           else
             echo "status=success" >> $GITHUB_OUTPUT
             git add .
-            git config --local user.email "ec.cheng.16888@gmail.com"
-            git config --local user.name "fordes123"
+            git config --local user.email "1528226290@qq.com"
+            git config --local user.name "ttt789-ppo"
             git commit -m "CI Updated at $(date +'%Y-%m-%d %H:%M:%S')" -a
           fi
 
