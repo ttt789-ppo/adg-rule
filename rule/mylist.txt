@@ -30,5 +30,13 @@
 
 ||log.uu.163.com^$important
 ||ksmobile.com^$important
+||zhanzhang.toutiao.com^$important
+||so.toutiao.com^$important
+||cdn.sohucs.com^$important
+||track.sohu.com^$important
+||v2.sohu.com^$important
+||qpb0.sohu.com^$important
+||us.mp.sohu.com^$important
+||uis.mp.sohu.com^$important
 
 !-----------------待定-----------------
