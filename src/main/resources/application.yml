@@ -32,6 +32,12 @@ application:
       - 'https://raw.githubusercontents.com/Cats-Team/AdRules/main/hosts.txt' #cat-team
       - 'https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007_auto/raw/reward?ref=master' #keytool
       - 'https://neodev.team/host' #neodev
+      - 'https://raw.githubusercontents.com/cjx82630/cjxlist/master/cjx-annoyance.txt'
+      - 'https://easylist-downloads.adblockplus.org/easyprivacy.txt'
+      - 'https://easylist-downloads.adblockplus.org/antiadblockfilters.txt'
+      - 'https://code.gitlink.org.cn/damengzhu/banad/raw/branch/main/jiekouAD.txt'
+      - 'https://gitea.com/lonely_dog/adblock/raw/branch/master/adblock_developer'
+      - 'https://gitlab.com/cats-team/adrules/-/raw/main/adblock.txt'
     #  - 'https://raw.githubusercontents.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt' #hagezi
       #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
