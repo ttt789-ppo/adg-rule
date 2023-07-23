@@ -1,42 +1,116 @@
-!-------------白名单---------------
-
 #图床
 @@||pic.imgdb.cn
-
 #微信支付
-@@||payapp.weixin.qq.com^$important
-
+@@||payapp.weixin.qq.com^
 #夸克网盘
-@@||pan.quark.cn^$important
-@@||drive.quark.cn^$important
-
+@@||pan.quark.cn^
+@@||drive.quark.cn^
 #夸克首页
-@@||myquark.cn^$important
-
+@@||myquark.cn^
 #小米骚扰拦截 数据库更新
-@@||api.sec.miui.com^$important
-
+@@||api.sec.miui.com^
 #小米推送(mipush)
-@@||cn.app.chat.xiaomi.net^$important
-
+@@||cn.app.chat.xiaomi.net^
 #个推
-@@||sdk.open.talk.gepush.com^$important
-
+@@||sdk.open.talk.gepush.com^
 #公共CDN
-@@||bootcdn.net^$important
-
+@@||bootcdn.net^
+#斗鱼
+@@||msg.douyu.com^
+@@||bjfesdk.douyucdn.cn^
+@@||gift.douyucdn.cn^
+#360
+@@||360.cn^
+!酷安
+@@||316.coolapk1s.com^
+@@||api.coolapk.com^
+@@||avatar.coolapk.com^
+@@||umengjmacs.m.taobao.com^
+!抖音网页
+@@||lf3-cdn-tos.bytegoofy.com^
+@@||lf6-cdn-tos.bytegoofy.com^
+@@||lf1-cdn-tos.bytegoofy.com^
+##京东
+@@||m.jingxi.com^
+@@||jstatic.3.cn^
 
 !-------------黑名单--------------------
-
-||log.uu.163.com^$important
-||ksmobile.com^$important
-||zhanzhang.toutiao.com^$important
-||so.toutiao.com^$important
-||cdn.sohucs.com^$important
-||track.sohu.com^$important
-||v2.sohu.com^$important
-||qpb0.sohu.com^$important
-||us.mp.sohu.com^$important
-||uis.mp.sohu.com^$important
-
+! 信息流及评论区广告
+||s2s.adjust.cn^
+||ctobsnssdk.com^
+||pangolin.snssdk.com^
+||pangolin-sdk-toutiao.com^
+||dm.toutiao.com^
+||ulogs.umeng.com^
+||aaid.umeng.com^
+||tnc*.zijieapi.com^
+||mssdk-bu.bytedance.com^
+! 帖子详情好物推荐
+||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
+! 帖子详情赞助内容
+||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
+! 发现页去除酷品
+||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
+! 应用游戏页去除推广视频
+||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
+! 去除首页还有什么值得买推广
+||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
+||ctobsnssdk.com^
+||pangolin.snssdk.com^
+||pangolin-sdk-toutiao.com^
+#夏普电视开机广告
+||flnet.com^
+||miaozhen.com^
+#QQ浏览器小说广告
+||kde.qq.com^
+#字节系 AD API SDK 屏蔽
+/snssdk.*/
+/pangolin-sdk.*/
+/pglstatp-toutiao.*/
+||dig.zjurl.cn^
+||dig.bdurl.net^
+||bsccdn.net^
+||ad.zijieapi.com^
+||mssdk.volces.com^
+||apps.bytesfield.com^
+||ads5-normal-lq.zijieapi.com^
+||ads3-normal-lq.zijieapi.com^
+||ads3-normal-lf.zijieapi.com^
+||ads5-normal-lf.zijieapi.com^
+||saveu5-normal-lf.zijieapi.com^
+||p9-ad-sign.byteimg.com^
+||p6-ad-sign.byteimg.com^
+||p6-ad.byteimg.com^
+||p3-ad-sign.byteimg.com^
+||lf6-orange.byteorge.com^
+||lf9-orange.byteorge.com^
+||lf3-orange.byteorge.com^
+||v3-novelapp.fqnovelvod.com^
+||v6-novelapp.fqnovelvod.com^
+||v26-novelapp.fqnovelvod.com^
+||sf6-ttcdn-tos.pstatp.com^
+||sf1-ttcdn-tos.pstatp.com^
+||sf3-ttcdn-tos.pstatp.com^
+||lf9-app-pkg-sign.bytesmanager.com^
+#七猫免费小说
+||cdn-new-ad.wtzw.com^
+||a-remad.qm989.com^
+||open.kuaishouzt.com^
+#得间
+||aiclk.com^
+||smad.ms.zhangyue.net^
+||adx.ads.heytapmobi.com^
+||uapi.ads.heytapmobi.com^
+||saad.ms.zhangyue.net^
+||sentry-app.ireader.com^
+#熊猫小说
+||cdn-ad.wtzw.com^
+||a-qmad.qimao.com^
+||mssdk.volces.com^
 !-----------------待定-----------------
+#小米浏览器热点资讯
+||hot.browser.miui.com^
+#未知来源 广告/日志
+||toblog.ctobsnssdk.com^
+#gamepass日志
+||catalog.gamepass.com^
