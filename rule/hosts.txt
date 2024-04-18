@@ -1,4 +1,4 @@
-# Update time: 2024-04-18 00:21:44
+# Update time: 2024-04-18 09:09:46
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt 
