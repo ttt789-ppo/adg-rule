@@ -12,34 +12,10 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt'  #adblock-nocoin-list
-      - 'https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt' #Scam Blocklist
-      - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt' #AdGuard DNS filter
-      - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
-      - 'https://abp.oisd.nl/basic/' #OISD Blocklist Basic
-      - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
-      - 'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt' #WindowsSpyBlocker
-      - 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #HalfLife（pc）
-      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt' #Adgk
-      - 'https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt' #Adgk kill baidu ad
-      - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt' #yhosts
-      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
-      #- 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
-      - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt' #adguard base
-     #- 'https://raw.githubusercontents.com/521xueweihan/GitHub520/main/hosts' #github520
-      - 'https://raw.githubusercontents.com/Cats-Team/AdRules/main/hosts.txt' #cat-team
-      - 'https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007_auto/raw/reward?ref=master' #keytool
-      - 'https://neodev.team/host' #neodev
-      - 'https://raw.githubusercontents.com/cjx82630/cjxlist/master/cjx-annoyance.txt'
-      - 'https://easylist-downloads.adblockplus.org/easyprivacy.txt'
-      - 'https://easylist-downloads.adblockplus.org/antiadblockfilters.txt'
-      - 'https://code.gitlink.org.cn/damengzhu/banad/raw/branch/main/jiekouAD.txt'
-      - 'https://gitea.com/lonely_dog/adblock/raw/branch/master/adblock_developer'
-      - 'https://gitlab.com/cats-team/adrules/-/raw/main/adblock.txt'
-    #  - 'https://raw.githubusercontents.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt' #hagezi
-      #本地规则
+      - 'https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt'  #冷莫精简
+      - 'https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt'  #冷莫加速
+      - 'http://rssv.cn/adguard/api.php?type=black'  #晴雅
+       #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
   output:
