@@ -1,4 +1,4 @@
-# Update time: 2025-02-28 09:40:47
+# Update time: 2025-02-28 16:26:24
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### http://rssv.cn/adguard/api.php?type=black 
