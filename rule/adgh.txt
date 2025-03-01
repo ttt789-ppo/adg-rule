@@ -1,4 +1,4 @@
-# Update time: 2025-03-01 00:26:34
+# Update time: 2025-03-01 09:46:21
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### http://rssv.cn/adguard/api.php?type=black 
@@ -506,20 +506,16 @@
 ||mobads.baidu.com^
 ||absod.video.iqiyi.com^
 
-#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
+    <!-- Twitter Cards -->
+      function gtag(){dataLayer.push(arguments);}
 	  <!-- Twitter Cards -->
+    <script>
     <!-- Umami Analytics -->
+  <body>
+<!DOCTYPE html>
     <!-- Google tag (gtag.js) -->
     <!-- built files will be auto injected -->
   <head>
     <noscript>
-
-#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
-    <!-- Twitter Cards -->
-      function gtag(){dataLayer.push(arguments);}
-    <script>
-  <body>
-<!DOCTYPE html>
-    <!-- Google tag (gtag.js) -->
-  <head>
 
