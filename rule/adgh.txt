@@ -1,8 +1,9 @@
-# Update time: 2025-03-02 00:23:09
+# Update time: 2025-03-02 09:45:47
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### http://rssv.cn/adguard/api.php?type=black 
 ||adxst.vivo.com.cn^
+||lf-cdn-tos.bytescm.com^
 ||feedback-c.zijieapi.com^
 ||sv-video.play.aiseet.atianqi.com^
 ||cn-da.anythinktech.com^
@@ -76,6 +77,7 @@
 ||rmpad.imtt.qq.com^
 ||miniapp-ad.cdn.bcebos.com^
 ||rpt.gdt.qq.com^
+||tnc3-alisc1.zijieapi.com^
 ||wwads.cn^
 ||securemetrics.apple.com^
 ||pgdt.gtimg.cn^
@@ -508,17 +510,18 @@
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
     <!-- Twitter Cards -->
+      function gtag(){dataLayer.push(arguments);}
 	  <!-- Twitter Cards -->
+    <script>
   <body>
 <!DOCTYPE html>
-    <!-- Google tag (gtag.js) -->
   <head>
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
-    <!-- Twitter Cards -->
-      function gtag(){dataLayer.push(arguments);}
-    <script>
+	  <!-- Twitter Cards -->
     <!-- Umami Analytics -->
+<!DOCTYPE html>
+    <!-- Google tag (gtag.js) -->
     <!-- built files will be auto injected -->
     <noscript>
 
