@@ -1,7 +1,7 @@
-# Update time: 2025-03-13 16:27:59
+# Update time: 2025-03-14 00:27:48
 # Repo URL: https://github.com/fordes123/adg-rule
 
-#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
     <!-- Twitter Cards -->
     <meta property="og:description"
     <div id="app"></div>
@@ -16,6 +16,7 @@
     <meta property="og:title" content="GitHub Proxy 代理加速" />
     <meta name="twitter:creator" content="@stilleshan" />
       <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    <link rel="icon" href="/favicon.ico">
   <head>
     <meta property="og:url" content="https://ghp.ci" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,13 +41,17 @@
 <html lang="">
   </body>
 
-#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
-    <meta name="twitter:card" content="summary_large_image" />
-    <!-- Twitter Cards -->
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
+      function gtag(){dataLayer.push(arguments);}
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!-- Umami Analytics -->
 <!DOCTYPE html>
     <link rel="icon" href="/favicon.ico">
+      gtag('js', new Date());
   <head>
     <title>GitHub Proxy 最新地址发布</title>
     <!-- <title>vue</title> -->
+      gtag('config', 'G-YR9B2BS8D8');
 <html lang="">
+    <meta charset="utf-8">
 
