@@ -1,4 +1,4 @@
-# Update time: 2025-03-14 00:27:48
+# Update time: 2025-03-14 09:41:42
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
@@ -33,7 +33,6 @@
     <script>
     <!-- Umami Analytics -->
 <!DOCTYPE html>
-  <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
 </html>
     <title>GitHub Proxy 最新地址发布</title>
     <!-- <title>vue</title> -->
@@ -42,16 +41,11 @@
   </body>
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
-      function gtag(){dataLayer.push(arguments);}
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    </script> -->
+    <script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
     <!-- Umami Analytics -->
-<!DOCTYPE html>
-    <link rel="icon" href="/favicon.ico">
-      gtag('js', new Date());
-  <head>
-    <title>GitHub Proxy 最新地址发布</title>
-    <!-- <title>vue</title> -->
+  <body>
+  <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
       gtag('config', 'G-YR9B2BS8D8');
-<html lang="">
-    <meta charset="utf-8">
+    <noscript>
 
