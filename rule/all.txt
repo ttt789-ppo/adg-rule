@@ -1,4 +1,4 @@
-# Update time: 2025-03-22 00:27:24
+# Update time: 2025-03-22 09:42:02
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
@@ -34,7 +34,6 @@
     <!-- Umami Analytics -->
 <!DOCTYPE html>
   <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
-</html>
     <title>GitHub Proxy 最新地址发布</title>
     <!-- <title>vue</title> -->
       content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
@@ -46,7 +45,6 @@
     <meta property="og:description"
     <div id="app"></div>
       function gtag(){dataLayer.push(arguments);}
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <body>
     <!-- built files will be auto injected -->
       window.dataLayer = window.dataLayer || [];
@@ -68,7 +66,6 @@
     </script> -->
 	  <!-- Twitter Cards -->
     <script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
-    <meta name="twitter:site" content="@stilleshan" />
     <!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
     <script>
     <!-- Umami Analytics -->
@@ -79,5 +76,4 @@
     <!-- <title>vue</title> -->
       content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
 <html lang="">
-  </body>
 
