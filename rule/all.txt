@@ -1,7 +1,7 @@
-# Update time: 2025-04-06 00:25:09
+# Update time: 2025-04-06 09:51:00
 # Repo URL: https://github.com/fordes123/adg-rule
 
-#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
     <!-- Twitter Cards -->
     <meta property="og:description"
     <div id="app"></div>
@@ -40,4 +40,10 @@
       content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
 <html lang="">
   </body>
+
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
+<!DOCTYPE html>
+  <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+  <head>
+<html lang="">
 
