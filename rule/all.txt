@@ -1,18 +1,5 @@
-# Update time: 2025-04-19 00:26:39
+# Update time: 2025-04-19 09:43:12
 # Repo URL: https://github.com/fordes123/adg-rule
-
-#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<!DOCTYPE html>
-    <link rel="icon" href="/favicon.ico">
-</html>
-  <head>
-    <title>GitHub Proxy 最新地址发布</title>
-    <!-- <title>vue</title> -->
-<html lang="">
-    <meta charset="utf-8">
-  </body>
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
     <!-- Twitter Cards -->
@@ -52,4 +39,5 @@
     <!-- <title>vue</title> -->
       content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
 <html lang="">
+  </body>
 
