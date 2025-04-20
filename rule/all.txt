@@ -1,5 +1,14 @@
-# Update time: 2025-04-20 00:26:12
+# Update time: 2025-04-20 09:53:48
 # Repo URL: https://github.com/fordes123/adg-rule
+
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
+    <div id="app"></div>
+      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+<!DOCTYPE html>
+    <!-- built files will be auto injected -->
+</html>
+    </noscript>
+  </body>
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
     <!-- Twitter Cards -->
@@ -8,21 +17,18 @@
       function gtag(){dataLayer.push(arguments);}
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <body>
-    <!-- built files will be auto injected -->
       window.dataLayer = window.dataLayer || [];
       gtag('config', 'G-YR9B2BS8D8');
     <meta charset="utf-8">
     <noscript>
     <meta property="og:title" content="GitHub Proxy 代理加速" />
     <meta name="twitter:creator" content="@stilleshan" />
-      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     <link rel="icon" href="/favicon.ico">
   <head>
     <meta property="og:url" content="https://ghp.ci" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Google tag (gtag.js) -->
       gtag('js', new Date());
-    </noscript>
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
     </script> -->
