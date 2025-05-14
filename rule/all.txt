@@ -1,4 +1,4 @@
-# Update time: 2025-05-14 16:30:53
+# Update time: 2025-05-15 00:29:05
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### http://rssv.cn/adguard/api.php?type=black 
@@ -464,7 +464,6 @@
 ||s1.hapying.com^
 ||*.juicyads.me^
 ||tyaqy.m.cn.miaozhen.com^
-||vv6.video.qq.com^
 ||ads-marketing-vivofs.vivo.com.cn^
 ||otheve.beacon.qq.com^
 ||eclick.baidu.com^
