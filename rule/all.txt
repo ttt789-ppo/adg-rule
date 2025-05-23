@@ -1,4 +1,4 @@
-# Update time: 2025-05-23 16:30:32
+# Update time: 2025-05-24 00:28:06
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
@@ -42,8 +42,27 @@
   </body>
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
-      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-  <body>
+    <!-- Twitter Cards -->
+    <meta property="og:description"
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      function gtag(){dataLayer.push(arguments);}
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!-- Google tag (gtag.js) -->
+      gtag('js', new Date());
+      window.dataLayer = window.dataLayer || [];
+      gtag('config', 'G-YR9B2BS8D8');
+    <meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
+    <meta property="og:title" content="GitHub Proxy 代理加速" />
+	  <!-- Twitter Cards -->
+    <meta name="twitter:site" content="@stilleshan" />
+    <meta name="twitter:creator" content="@stilleshan" />
+    <!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+    <script>
 <!DOCTYPE html>
-    <noscript>
+    <link rel="icon" href="/favicon.ico">
+  <head>
+    <title>GitHub Proxy 最新地址发布</title>
+    <!-- <title>vue</title> -->
+      content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+<html lang="">
 
