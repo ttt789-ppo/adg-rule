@@ -1,4 +1,4 @@
-# Update time: 2025-06-09 00:26:22
+# Update time: 2025-06-09 10:01:31
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
@@ -20,12 +20,45 @@
   <head>
     <meta property="og:url" content="https://ghp.ci" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      gtag('js', new Date());
+    </noscript>
+    <meta name="twitter:card" content="summary_large_image" />
+    </script> -->
+	  <!-- Twitter Cards -->
+    <meta name="twitter:site" content="@stilleshan" />
+    <!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+    <script>
+    <!-- Umami Analytics -->
+<!DOCTYPE html>
+  <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+</html>
+    <title>GitHub Proxy 最新地址发布</title>
+    <!-- <title>vue</title> -->
+      content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+  </body>
+
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
+    <!-- Twitter Cards -->
+    <meta property="og:description"
+      function gtag(){dataLayer.push(arguments);}
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <body>
+    <!-- built files will be auto injected -->
+      window.dataLayer = window.dataLayer || [];
+      gtag('config', 'G-YR9B2BS8D8');
+    <meta charset="utf-8">
+    <noscript>
+    <meta property="og:title" content="GitHub Proxy 代理加速" />
+    <meta name="twitter:creator" content="@stilleshan" />
+      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    <link rel="icon" href="/favicon.ico">
+    <meta property="og:url" content="https://ghp.ci" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Google tag (gtag.js) -->
       gtag('js', new Date());
     </noscript>
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
-    </script> -->
 	  <!-- Twitter Cards -->
     <script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
     <meta name="twitter:site" content="@stilleshan" />
@@ -40,13 +73,4 @@
       content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
 <html lang="">
   </body>
-
-#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<!DOCTYPE html>
-  <head>
-    <title>GitHub Proxy 最新地址发布</title>
-    <!-- <title>vue</title> -->
-<html lang="">
-    <meta charset="utf-8">
 
