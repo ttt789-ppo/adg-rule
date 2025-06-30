@@ -1,4 +1,4 @@
-# Update time: 2025-06-30 00:27:03
+# Update time: 2025-06-30 10:02:54
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
@@ -37,6 +37,34 @@
 </html>
     <title>GitHub Proxy 最新地址发布</title>
     <!-- <title>vue</title> -->
+      content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+<html lang="">
+  </body>
+
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
+    <div id="app"></div>
+      function gtag(){dataLayer.push(arguments);}
+  <body>
+    <!-- built files will be auto injected -->
+      window.dataLayer = window.dataLayer || [];
+      gtag('config', 'G-YR9B2BS8D8');
+    <noscript>
+      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+  <head>
+    <!-- Google tag (gtag.js) -->
+      gtag('js', new Date());
+    </noscript>
+    <meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
+    </script> -->
+	  <!-- Twitter Cards -->
+    <script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
+    <!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+    <script>
+    <!-- Umami Analytics -->
+<!DOCTYPE html>
+  <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+</html>
+    <title>GitHub Proxy 最新地址发布</title>
       content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
 <html lang="">
   </body>
