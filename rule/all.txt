@@ -1,28 +1,39 @@
-# Update time: 2025-07-02 00:30:33
+# Update time: 2025-07-02 09:57:26
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
     <!-- Twitter Cards -->
-    <meta property="og:description"
     <div id="app"></div>
-      function gtag(){dataLayer.push(arguments);}
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <body>
     <!-- built files will be auto injected -->
+    <noscript>
+    </noscript>
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@stilleshan" />
+      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    <link rel="icon" href="/favicon.ico">
+  <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+</html>
+  </body>
+
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
+    <!-- Twitter Cards -->
+    <meta property="og:description"
+      function gtag(){dataLayer.push(arguments);}
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <body>
       window.dataLayer = window.dataLayer || [];
       gtag('config', 'G-YR9B2BS8D8');
     <meta charset="utf-8">
-    <noscript>
     <meta property="og:title" content="GitHub Proxy 代理加速" />
     <meta name="twitter:creator" content="@stilleshan" />
-      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     <link rel="icon" href="/favicon.ico">
   <head>
     <meta property="og:url" content="https://ghp.ci" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Google tag (gtag.js) -->
       gtag('js', new Date());
-    </noscript>
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
     </script> -->
@@ -34,10 +45,8 @@
     <!-- Umami Analytics -->
 <!DOCTYPE html>
   <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
-</html>
     <title>GitHub Proxy 最新地址发布</title>
     <!-- <title>vue</title> -->
       content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
 <html lang="">
-  </body>
 
