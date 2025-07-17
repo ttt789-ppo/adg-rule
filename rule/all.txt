@@ -1,7 +1,7 @@
-# Update time: 2025-07-17 00:32:28
+# Update time: 2025-07-17 10:03:54
 # Repo URL: https://github.com/fordes123/adg-rule
 
-#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
     <!-- Twitter Cards -->
     <meta property="og:description"
     <div id="app"></div>
@@ -15,7 +15,6 @@
     <noscript>
     <meta property="og:title" content="GitHub Proxy 代理加速" />
     <meta name="twitter:creator" content="@stilleshan" />
-      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     <link rel="icon" href="/favicon.ico">
   <head>
     <meta property="og:url" content="https://ghp.ci" />
@@ -35,9 +34,23 @@
 <!DOCTYPE html>
   <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
 </html>
-    <title>GitHub Proxy 最新地址发布</title>
     <!-- <title>vue</title> -->
       content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+<html lang="">
+  </body>
+
+#### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
+    <!-- Twitter Cards -->
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+    <noscript>
+    </noscript>
+      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+<!DOCTYPE html>
+    <link rel="icon" href="/favicon.ico">
+</html>
+  <head>
+    <title>GitHub Proxy 最新地址发布</title>
 <html lang="">
   </body>
 
