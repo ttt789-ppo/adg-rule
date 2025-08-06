@@ -1,4 +1,4 @@
-# Update time: 2025-08-06 16:35:09
+# Update time: 2025-08-07 00:33:38
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
@@ -16,4 +16,5 @@
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
 <!DOCTYPE html>
+  <head>
 
