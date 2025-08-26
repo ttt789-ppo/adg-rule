@@ -1,4 +1,4 @@
-# Update time: 2025-08-26 16:32:08
+# Update time: 2025-08-27 00:28:10
 # Repo URL: https://github.com/fordes123/adg-rule
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/ad-hosts-lite/ad-adguardhome.txt 
@@ -42,10 +42,11 @@
   </body>
 
 #### https://mirror.ghproxy.com/https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt 
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:url" content="https://ghp.ci" />
+    <meta property="og:description"
+    <meta property="og:title" content="GitHub Proxy 代理加速" />
+    <meta name="twitter:site" content="@stilleshan" />
+    <meta name="twitter:creator" content="@stilleshan" />
 <!DOCTYPE html>
-  <head>
-    <title>GitHub Proxy 最新地址发布</title>
-    <!-- <title>vue</title> -->
-<html lang="">
-    <meta charset="utf-8">
 
